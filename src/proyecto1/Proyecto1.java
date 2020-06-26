@@ -5,6 +5,8 @@
  */
 package proyecto1;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Miguel
@@ -16,7 +18,10 @@ public class Proyecto1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        JOptionPane.showMessageDialog(null, "HOla mundo");
+        sadf
+                asdf
+                
     }
     
 }
